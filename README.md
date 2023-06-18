@@ -6,3 +6,5 @@ one of files returned an infeasible solution, which means that it was not possib
 another return visible soultion to optimize the production of pyruvate using the model.optimize() method.
 
 i used escher for graph
+
+note attached jason file that used in esher 
